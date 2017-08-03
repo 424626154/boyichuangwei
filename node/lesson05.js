@@ -1,4 +1,4 @@
-var utils = require("./lesson5_util");
+var utils = require("./lesson05_util");
 console.log(utils);
 var num = utils.randomInt(10,20);
 console.log(num);
